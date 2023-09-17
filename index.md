@@ -4,3 +4,9 @@
 
 ```html
 <p>This is a recipe for a chocolate cake.</p>
+```
+
+- [ ] Gather the imgridents
+- [ ] Prepare the cake
+- [ ] Bake the cake
+- [ ] Serve the cake
